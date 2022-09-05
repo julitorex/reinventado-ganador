@@ -121,9 +121,6 @@
                     <p class="testimony__review">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, et dolorum. Officiis unde debitis tenetur consequatur laborum ad, velit, laboriosam quos atque molestiae sapiente. Ipsam cumque iste id hic tenetur!</p>
                 </article>
                 
-               
-                
-
                 
         </section>
     </main>
